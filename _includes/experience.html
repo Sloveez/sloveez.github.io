@@ -3,4 +3,9 @@
   <h3>{{ exp.employer }} ({{ exp.url }})</h3>
   <h4>{{ exp.start }} - {{ exp.end }}</h4>
   <h3>{{ exp.title }}</h3>
+  <ul>
+  {% for ach in exp.achievements %}
+    <li>{{ ach }}</li>
+  {% endfor %}
+  </ul>
 {% endfor %}
