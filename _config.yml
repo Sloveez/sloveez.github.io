@@ -1,3 +1,31 @@
-name: Michael Sloves, Software Engineering Management Professional
+# Site settings
+title: "Resume"
+description: Resume template using Jekyll
+
+# Build settings
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+sass:
+  sass_dir: _sass
+  style: compressed
+  
+# Resume settings
+resume_avatar:    "true"
+resume_name:      "Michael F. Sloves"
+resume_title:     "Software Development Management Professional"
+resume_contact_email:   "michaelsloves@gmail.com"
+resume_looking_for_work:    "no"
+
+resume_section_summary:       "true"
+resume_section_experience:    "true"
+resume_section_education:     "true"
+resume_section_projects:      "true"
+resume_section_skills:        "true"
+resume_section_recognition:   "true"
+resume_section_links:         "true"
+resume_section_associations:  "true"
+
+resume_social_links:
+  resume_github_url:          "https://github.com/sloveez"
+
+# Design settings
+resume_theme:                 "default"
