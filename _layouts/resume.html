@@ -28,7 +28,9 @@
 
         {% if site.resume_section_summary %}
         <div class="executive-summary" itemprop="description">
-          <p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>
+          {% for summary in site.data.executivesummary %}
+            {{ summary.text }}
+          {% endfor %}
         </div>
         {% endif %}
 
