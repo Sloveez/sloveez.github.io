@@ -1,2 +1,3 @@
 name: Michael Sloves, Software Engineering Management Professional
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
