@@ -26,7 +26,7 @@ resume_section_associations:  "false"
 
 resume_social_links:
   resume_linkedin_url:        "https://www.linkedin.com/in/michaelsloves"
-  resume_github_url:          "https://github.com/sloveez"
+#  resume_github_url:          "https://github.com/sloveez"
 
 # Design settings
 resume_theme:                 "default"
