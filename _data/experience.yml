@@ -37,17 +37,17 @@
     - Screening, hiring and supervising of Web Development professionals, evaluating employee performance.  
     - Evaluation and recommendation of new technologies that would fit in with the DSCP environment, and ensuring projects completed on time and within budgetary constraints.  
    
- - employer: Computer Sciences Corp
-   url: www.csc.com
-   start: April 1997
-   end: August 1998
-   title: Computer Scientist
-   copy: Joint Computer-Aided Acquisition and Logistics Support System, Application conversion, Workflow management, Oracle (7x), Global Data Management System (GDMS), Microsoft Visual C++ 5, MFC, ISAPI, COM, Windows NT, X-Windows
-   achievements:
-     - Supported CSC's JCALS PC Client group to develop application software with Microsoft's Visual C++ 5.0 using MFC and JCALS-developed API's in a client/server environment.
-     - Ported JCALS Infrastructure applications, originally written for UNIX, Ada and X-Windows to be Windows-based. 
-     - Created Web-based applications using Microsoft Visual C++ 5.0 using ISAPI and JCALSdeveloped API's. These applications represent CSC's latest technological move toward ThinClient architecture. Web-based applications are being created by converting existing applications to be in-process DLL's utilizing HTML, JavaScript and COM. These activities include GUI development to generate Windows' dialogs or HTML pages.
-     - Visited client sites in order to assist in the installation of a complete JCALS system. 
+- employer: Computer Sciences Corp
+  url: www.csc.com
+  start: April 1997
+  end: August 1998
+  title: Computer Scientist
+  copy: Joint Computer-Aided Acquisition and Logistics Support System, Application conversion, Workflow management, Oracle (7x), Global Data Management System (GDMS), Microsoft Visual C++ 5, MFC, ISAPI, COM, Windows NT, X-Windows
+  achievements:
+    - Supported CSC's JCALS PC Client group to develop application software with Microsoft's Visual C++ 5.0 using MFC and JCALS-developed API's in a client/server environment.
+    - Ported JCALS Infrastructure applications, originally written for UNIX, Ada and X-Windows to be Windows-based. 
+    - Created Web-based applications using Microsoft Visual C++ 5.0 using ISAPI and JCALSdeveloped API's. These applications represent CSC's latest technological move toward ThinClient architecture. Web-based applications are being created by converting existing applications to be in-process DLL's utilizing HTML, JavaScript and COM. These activities include GUI development to generate Windows' dialogs or HTML pages.
+    - Visited client sites in order to assist in the installation of a complete JCALS system. 
 
 - employer: Amtech
   url: www.amtechsoftware.com
