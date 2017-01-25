@@ -53,8 +53,33 @@
   url: www.amtechsoftware.com
   start: April 1996
   end: April 1997
+  title: Senior Developer/Team Lead
   copy: 
-  achivements:
+  achievements:
     - Developed front-end database applications for the Corrugated Box and Folding Carton Industries. This suite of applications encompasses every aspect of the Box Industry from Customer Service to Truck Planning and Accounting. Extensive use of messaging and classes were implemented during the course of developing this package. 
     - Database performance tuning, backup and restoration, ensuring the smooth transition of database schema from version to version, and instructing clients how to perform these tasks. 
     - Project Leader on product stabilization and deployment. Responsibilities included project planning, resource scheduling, and project management. 
+
+- employer: Automatic Data Processing
+  url: www.adp.com
+  start: April 1994
+  end: April 1996
+  title: Member, Technical Staff
+  copy:
+  achievements:
+    - Using 8088 Assembly Language and C, supported an existing product in use by over 20,000 workstations. Support responsibilities included adding new features, modifying existing features, and making minor modifications to support client requests. All programming was done on the DOS-based "Mondrian" operating system and the LifeNet networking system. 
+    - Convert an existing 16-bit Windows-based brokerage application to 32-bit using Visual C++. 
+    - Enhanced product portability. 
+    - Designed and implemented a custom installation package for use with the new 32-bit product. Features of this package included making changes to accommodate different network transport layers across multiple client platforms, runtime configurations file creation, checking for existing components, and the preservation of existing data when upgrading software. 
+    - Designed and implemented a data conversion utility using Visual Basic. This utility would map Back Office data from client specific data formats to ADP data formats. This data would then be imported into a Sybase SQL Server database. Features included intelligent parsing, database creation and manipulation, and progress indication. 
+    - Jr. Account Manager for one of the largest brokerage firms in the South East. 
+
+- employer: TelTech, Inc
+  url:
+  start: April 1991
+  end: January 1994
+  copy:
+  achievements:
+    - Worked on a team to produce an OS/2 1.3 API to stress test a larger API written for image rendering systems.
+    - Developed complete test plans to cover all possible test scenarios. 
+    - Responsible for System Administration of a Local Area Network at IBM Research in Hawthorne, NY.
