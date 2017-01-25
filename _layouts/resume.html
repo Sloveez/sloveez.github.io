@@ -55,7 +55,12 @@
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ exp.employer }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ exp.title }} &bull; {{ exp.start }} &mdash; {{ exp.end }}</h4>
-          <p class="resume-item-copy">{{ exp.copy }}</p>
+          {% if exp.projects %}
+          <p class="resume-item-copy"><em>Projects: </em>{{ exp.projects }}</p>
+          {% endif %}
+          {% if exp.platforms %}
+          <p class="resume-item-copy"><em>Platforms: </em>{{ exp.platforms }}</p>
+          {% endif %}
           <ul class="resume-item-list">
             {% for ach in exp.achievements %}
             <li>{{ ach }}</li>
