@@ -27,7 +27,8 @@
   start: August 1998
   end: April 2000
   title: Project Manager/Web Development Manager
-  copy:  Project Management, Business Requirements Review and Implementation, Vendor Evaluation, Multi-dimensional Database research and prototype. Oracle (7x), PL/SQL, Microsoft Visual Basic, HPUX, Hyperion EssBase, QueryObjects, Windows NT, ASP, Internet Explorer 4.5/5, XML, BizTalk  
+  projects: Project Management, Business Requirements Review and Implementation, Vendor Evaluation, Multi-dimensional Database research and prototype. 
+  platforms: Oracle (7x), PL/SQL, Microsoft Visual Basic, HPUX, Hyperion EssBase, QueryObjects, Windows NT, ASP, Internet Explorer 4.5/5, XML, BizTalk 
   achievements:
     - Lead of the Integration Team in charge of installation, implementation, and design of Multi Dimensional Database products to AmerInd customers. Products include QueryObject and Hyperion EssBase. 
     - Author Requirements Documents for application and database consolidation/warehousing project (MEDLIFE).  
@@ -42,7 +43,8 @@
   start: April 1997
   end: August 1998
   title: Computer Scientist
-  copy: Joint Computer-Aided Acquisition and Logistics Support System, Application conversion, Workflow management, Oracle (7x), Global Data Management System (GDMS), Microsoft Visual C++ 5, MFC, ISAPI, COM, Windows NT, X-Windows
+  projects: Joint Computer-Aided Acquisition and Logistics Support System, Application conversion, Workflow management
+  platforms: Oracle (7x), Global Data Management System (GDMS), Microsoft Visual C++ 5, MFC, ISAPI, COM, Windows NT, X-Windows
   achievements:
     - Supported CSC's JCALS PC Client group to develop application software with Microsoft's Visual C++ 5.0 using MFC and JCALS-developed API's in a client/server environment.
     - Ported JCALS Infrastructure applications, originally written for UNIX, Ada and X-Windows to be Windows-based. 
@@ -54,7 +56,8 @@
   start: April 1996
   end: April 1997
   title: Senior Developer/Team Lead
-  copy: 
+  projects: Team Lead, Purchase Order modules, Report modules, Setup and Database Update, Product Maintenance and Stabilization, Database Performance
+  platforms: Gupta SQLWindows, Centura Developer, Gupta SQLBase
   achievements:
     - Developed front-end database applications for the Corrugated Box and Folding Carton Industries. This suite of applications encompasses every aspect of the Box Industry from Customer Service to Truck Planning and Accounting. Extensive use of messaging and classes were implemented during the course of developing this package. 
     - Database performance tuning, backup and restoration, ensuring the smooth transition of database schema from version to version, and instructing clients how to perform these tasks. 
@@ -65,7 +68,8 @@
   start: April 1994
   end: April 1996
   title: Member, Technical Staff
-  copy:
+  projects: “FS Partner” real-time Stock Quote and News system, Power Partner for Windows, Account Management
+  platforms: IBM 8088 assembly, Microsoft Visual C++, Sybase, LifeNET, IBM Token Ring, DOS, Windows NT
   achievements:
     - Using 8088 Assembly Language and C, supported an existing product in use by over 20,000 workstations. Support responsibilities included adding new features, modifying existing features, and making minor modifications to support client requests. All programming was done on the DOS-based "Mondrian" operating system and the LifeNet networking system. 
     - Convert an existing 16-bit Windows-based brokerage application to 32-bit using Visual C++. 
@@ -79,7 +83,8 @@
   start: April 1991
   end: January 1994
   title: Consultant
-  copy:
+  projects: Engineering Systems Support, System Administration, Imaging Systems, Workflow Management, Team Lead
+  platforms: IBM 370, IBM AIX, OS/2 1.3
   achievements:
     - Worked on a team to produce an OS/2 1.3 API to stress test a larger API written for image rendering systems.
     - Developed complete test plans to cover all possible test scenarios. 
