@@ -130,20 +130,11 @@
           <h2>Skills</h2>
         </header>
 
-        <div class="resume-item">
-          <h4 class="resume-item-details">Donut design</h4>
-          <p class="resume-item-copy">Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research</p>
-        </div>
-
-        <div class="resume-item">
-          <h4 class="resume-item-details">Craft beer brewing</h4>
-          <p class="resume-item-copy">Hops inspection, brew testing, distribution management, bottle label design, festival and event management</p>
-        </div>
-
-        <div class="resume-item">
-          <h4 class="resume-item-details">Family leadership</h4>
-          <p class="resume-item-copy">Bread winning, conflict resolution, couch inspection, TV longevity testing</p>
-        </div>
+        {% for skill in site.data.skills %}
+        <p class="resume-item-copy">
+        {{ skill.name }}
+        </p>
+        {% endfor %}
 
       </section>
       <!-- end Skills -->
