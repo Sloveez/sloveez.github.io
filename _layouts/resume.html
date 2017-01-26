@@ -130,12 +130,12 @@
           <h2>Skills</h2>
         </header>
 
-        {% for skill in site.data.skills %}
-        <p class="resume-item-copy">
+      <p class="resume-item-copy">
+      {% for skill in site.data.skills %}
         {{ skill.name }}
-        </p>
-        {% endfor %}
-
+      {% endfor %}
+      </p>
+        
       </section>
       <!-- end Skills -->
       {% endif %}
