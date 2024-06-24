@@ -1,8 +1,21 @@
+- employer: AVEVA (acquired OSIsoft)
+  url: www.aveva.com
+  start: March 2021
+  end: Present
+  title: R&D VP, Product Development, Information Management
+  achievements:
+    - Leading an organization of 125 Software Developers and R&D Leaders to deliver industrial software products generated over $650MM in revenue.
+    - Established a highly effective and diverse leadership team responsible for driving process improvement and professional growth within the organization.
+    - Working colloaboratively with cross-functional representatives from Portoilio Management, Program Management and Technology organization, defined and executed the strategic direction for the PI System.
+    - Led the effort of implementing a comprehensive capital expenditure capture system, ensuring accurate budgeting and cost control for a multi-million dollar software development organization.
+    - Passionate leader in driving Professional Growth within the organization, spearheading the use of 3rd party platforms to enable learning and development.
+    - Setting standards for the organization in the areas of organizational and team health, product quality metrics, customer satisfaction, and overall product development efficiency.
+
 - employer: OSIsoft, LLC
   url: www.osisoft.com
   start: November 2018
-  end: Present
-  title: Engineering Dept. Lead, Eastern Region/Europe
+  end: March 2021
+  title: Director Leadership and Advancement, Eastern Region/Europe
   achievements:
     - Leading an organization of 80+ Software Developers, Managers, and Interns across multiple geographic locations and disciplines.
     - Working with Engineering Managers, guides and coaches on skill growth of team members and Engineering Managers.
@@ -15,7 +28,7 @@
 - employer: OSIsoft, LLC
   url: www.osisoft.com
   start: May 2000
-  end: Present
+  end: Novemvber 2018
   title: Group Lead, Developer Technologies
   platforms: Microsoft .NET (C#, ASP.NET 3/4/5, Web API), Java, Microsoft Windows SharePoint Services, SAP Enterprise Portal, XML, COM+, MSMQ, Visual C++, Visual Basic, HTML, Java, JavaScript, ASP, SUN Solaris, Oracle 8i, SQL, Microsoft SQL Server, Windows 2000 Server, Microsoft Windows Server 2003, Microsoft Site Server, IIS, Network Design, Microsoft Digital Dashboard 
   achievements:
